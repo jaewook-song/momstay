@@ -1,0 +1,7 @@
+<script>
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+ 'event': 'house_view_step1',
+ 'location': '서울 서대문구 연세로 11길 32' // location은 매물 페이지 주소로 '치환'해주세요
+});
+</script>
